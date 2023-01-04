@@ -56,10 +56,10 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Frederik Kratzert
-  email: "f.kratzert@gmail.com"
-  github: kratzert
-  twitter: fkratzert
+  name: Pagi Maula
+  email: "pornpics.de"
+  github: Pagi-Maula
+  twitter: elonmmusk
   linkedin: frederik-kratzert-226a33148
   xing: yourname
   stackoverflow: yourlink
@@ -86,7 +86,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "kratzert.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "pagi-maula.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
